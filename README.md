@@ -5,17 +5,17 @@
 着手准备，想要使用tf2实现《21个项目玩转深度学习》中的案例，原案例使用的是tf1，python2， 类unix系统，参见：https://github.com/hzy46/Deep-Learning-21-Examples
 
 # 快速指引
-1.MNIST机器学习入门
+-1.MNIST机器学习入门
   基本完成
-2.CIFAR-10与ImageNet图像识别
-3.打造自己的图像识别模型
-4.Deep Dream
-5.深度学习中的目标检测
-6.人脸检测和人脸识别
-7.图像风格迁移
-8.GAN与DCGAN入门
-9.pix2pix模型与自动上色技术
-10.超分辨率：让图像变得更清晰
+-2.CIFAR-10与ImageNet图像识别
+-3.打造自己的图像识别模型
+-4.Deep Dream
+-5.深度学习中的目标检测
+-6.人脸检测和人脸识别
+-7.图像风格迁移
+-8.GAN与DCGAN入门
+-9.pix2pix模型与自动上色技术
+-10.超分辨率：让图像变得更清晰
 11.CycleGAN与非配对图像转换
 12.RNN基本结构与Char RNN文本生成
 13.序列分类问题详解
